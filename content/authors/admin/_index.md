@@ -1,7 +1,7 @@
 ---
 authors:
-- admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+- C19 Red Team
+bio: In een complexe crisis is het gebruikelijk en noodzakelijk om een red team aan te stellen als tegenspraak op het blue team om tunnelvisie en blinde vlekken te voorkomen. De overheid heeft besloten om zelf geen tegenspraak te organiseren. Red Team C19NL is een vrijwillige en niet-officiële groep die vrijblijvend tegenspraak biedt en heeft geen bijzondere status. De groep is ontstaan vanuit individuele contacten en is niet door een centraal orgaan samengesteld. We zijn ons bewust van de waarde van diversiteit in alle opzichten en proberen die te vergroten waar dat mogelijk is. Los van dit initiatief is een groot deel van de leden gevraagd om op persoonlijke titel bij te dragen aan de ‘in-action review’ door VWS.
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -42,6 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In een complexe crisis is het gebruikelijk en noodzakelijk om een red team aan te stellen als tegenspraak op het blue team om tunnelvisie en blinde vlekken te voorkomen. De overheid heeft besloten om zelf geen tegenspraak te organiseren. Red Team C19NL is een vrijwillige en niet-officiële groep die vrijblijvend tegenspraak biedt en heeft geen bijzondere status. De groep is ontstaan vanuit individuele contacten en is niet door een centraal orgaan samengesteld. We zijn ons bewust van de waarde van diversiteit in alle opzichten en proberen die te vergroten waar dat mogelijk is. Los van dit initiatief is een groot deel van de leden gevraagd om op persoonlijke titel bij te dragen aan de ‘in-action review’ door VWS.
