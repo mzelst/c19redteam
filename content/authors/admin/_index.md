@@ -2,11 +2,7 @@
 authors:
 - C19 Red Team
 bio: In een complexe crisis is het gebruikelijk en noodzakelijk om een red team aan te stellen als tegenspraak op het blue team om tunnelvisie en blinde vlekken te voorkomen. De overheid heeft besloten om zelf geen tegenspraak te organiseren. Red Team C19NL is een vrijwillige en niet-officiële groep die vrijblijvend tegenspraak biedt en heeft geen bijzondere status. De groep is ontstaan vanuit individuele contacten en is niet door een centraal orgaan samengesteld. We zijn ons bewust van de waarde van diversiteit in alle opzichten en proberen die te vergroten waar dat mogelijk is. Los van dit initiatief is een groot deel van de leden gevraagd om op persoonlijke titel bij te dragen aan de ‘in-action review’ door VWS.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+
 email: ""
 interests:
 - Artificial Intelligence
