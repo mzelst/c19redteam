@@ -1,9 +1,13 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 4,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
             "ascending": true
         }
     ],
-    "path": "C:/Users/s379011/surfdrive/projects/2020covid-19/covid-19/c19redteam_website/content/authors"
+    "path": "C:/Users/s379011/surfdrive/projects/2020covid-19/covid-19/c19redteam_website/config/_default"
 }
