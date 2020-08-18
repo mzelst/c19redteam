@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: Leden
 view: 2
 ---
