@@ -4,27 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Leden"
+  name = "Actueel"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Publicaties"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Kennisbank"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Courses"
+  name = "Community"
   url = "courses/"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Over"
   url = "#contact"
   weight = 60
 
